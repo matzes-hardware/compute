@@ -1,0 +1,6 @@
+[submodule "amd/socket-am4/yeathemen/eagle-libraries"]
+	path = amd/socket-am4/yeathemen/eagle-libraries
+	url = https://github.com/YeaTheMen/eagle-libraries.git
+[submodule "amd/socket-am4/yeathemen/am4-motherboard"]
+	path = amd/socket-am4/yeathemen/am4-motherboard
+	url = https://github.com/YeaTheMen/am4-motherboard.git
